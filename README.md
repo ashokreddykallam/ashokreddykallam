@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashok Reddy</h1>
-<h3 align="center">A passionate software enthusiast</h3>
+<h3 align="center">A passionate tech enthusiast</h3>
 
 - 🔭 I’m currently working on [a discord clone](https://discord.com)
 
