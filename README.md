@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a discord clone](https://github.com/ashokreddykallam/tokencord)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ashokreddykallam](https://github.com/ashokreddykallam)
+- 👨‍💻 Some of my finised projects are available at [https://github.com/ashokreddykallam](https://github.com/ashokreddykallam)
 
 - 📫 How to reach me: **Discord**
 <p align="left">
