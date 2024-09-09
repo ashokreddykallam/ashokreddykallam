@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashok Reddy</h1>
 <h3 align="center">A passionate tech enthusiast</h3>
 
-- 🔭 I’m currently working on [a discord clone](https://discord.com)
+- 🔭 I’m currently working on [a discord clone](https://github.com/ashokreddykallam/tokencord)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashokreddykallam](https://github.com/ashokreddykallam)
 
